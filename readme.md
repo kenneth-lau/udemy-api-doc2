@@ -8,7 +8,7 @@ For more information, see [Learn API Technical Writing 2: REST for Writers] (htt
 - Exercise 4: [Documenting query parameters](exercise-4-queryparameters.md)
 - Exercise 5: [Headers](exercise-5-headers.md)
 - Exercise 6: [Status codes](exercise-6-statuscodes.md)
-- Exercise 7: [Reference doc](exercise-7-reference.md)
+- Exercise 7: [Reference doc](exercise-7-referencedoc.md)
 
 ## 1.2 REST
 * REST: Design pattern not protocol
