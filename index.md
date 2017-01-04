@@ -1,6 +1,6 @@
 # Notes from the "Learn API Technical Writing 2: REST for Writers" course
 
-For more information, see [Learn API Technical Writing 2: REST for Writers] (https://www.udemy.com/learn-api-technical-writing-2-rest-for-writers) at Udemy.
+For more information, see [Learn API Technical Writing 2: REST for Writers](https://www.udemy.com/learn-api-technical-writing-2-rest-for-writers) at Udemy.
 
 ## Exercises
 - Exercise 1: [Requests](exercise-1-requests.md)
