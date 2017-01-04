@@ -1,17 +1,4 @@
-# Notes from the "Learn API Technical Writing 2: REST for Writers" course
-
-GitHub Pages: https://kenneth-lau.github.io/udemy-api-doc2
-
-For more information, see [Learn API Technical Writing 2: REST for Writers] (https://www.udemy.com/learn-api-technical-writing-2-rest-for-writers) at Udemy.
-
-## Exercises
-- Exercise 1: [Requests](exercise-1-requests.md)
-- Exercise 2: [Methods](exercise-2-methodandurl.md)
-- Exercise 3: [Using query parameters](exercise-3-queryparameters.md)
-- Exercise 4: [Documenting query parameters](exercise-4-queryparameters.md)
-- Exercise 5: [Headers](exercise-5-headers.md)
-- Exercise 6: [Status codes](exercise-6-statuscodes.md)
-- **Exercise 7:** [Full API reference doc](exercise-7-referencedoc.md)
+# Notes
 
 ## 1.2 REST
 * REST: Design pattern not protocol

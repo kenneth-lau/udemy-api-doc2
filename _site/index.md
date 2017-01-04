@@ -1,7 +1,5 @@
 # Notes from the "Learn API Technical Writing 2: REST for Writers" course
 
-GitHub Pages: https://kenneth-lau.github.io/udemy-api-doc2
-
 For more information, see [Learn API Technical Writing 2: REST for Writers] (https://www.udemy.com/learn-api-technical-writing-2-rest-for-writers) at Udemy.
 
 ## Exercises
